@@ -1,6 +1,6 @@
 
 #Whiteout
-This mod add pure white blocks to aid in creating clean screenshots.
+This mod adds pure white blocks to aid in creating clean screenshots.
 
 ###[Download from here](https://minecraft.curseforge.com/projects/whiteout)
 
