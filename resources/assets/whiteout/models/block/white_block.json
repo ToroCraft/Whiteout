@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "whiteout:blocks/white_block",
+        "up": "whiteout:blocks/white_block",
+        "north": "whiteout:blocks/white_block",
+        "south": "whiteout:blocks/white_block",
+        "east": "whiteout:blocks/white_block",
+        "west": "whiteout:blocks/white_block",
+        "particle": "whiteout:blocks/white_block"
+    }
+}
