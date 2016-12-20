@@ -4,6 +4,7 @@ This mod adds pure white blocks to aid in creating clean screenshots.
 
 ###[Download from here](https://minecraft.curseforge.com/projects/whiteout)
 
+![Screenshot](http://i.imgur.com/KyPcshE.png)
 
 ##Development Environment Setup
 Download the desired version of Forge MDK from https://files.minecraftforge.net/ and unzip the MDK into a new dirctory. After the MDK is unzipped, remove the `main` folder from the `src` folder and clone this repo into the `src` directory as `main`. Then you will need to either copy or link the `build.gradle` from the repository to the root of the MDK, replacing the original one. 
