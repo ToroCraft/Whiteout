@@ -3,6 +3,7 @@ package net.torocraft.whiteout;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import net.torocraft.whiteout.blocks.BlockBlack;
 import net.torocraft.whiteout.blocks.BlockWhite;
 
 public class ClientProxy extends CommonProxy {
@@ -16,6 +17,7 @@ public class ClientProxy extends CommonProxy {
 	public void init(FMLInitializationEvent e) {
 		super.init(e);
 		BlockWhite.registerRenders();
+		BlockBlack.registerRenders();
 	}
 
 	@Override

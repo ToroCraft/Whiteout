@@ -1,0 +1,12 @@
+{
+    "parent": "whiteout:block/shadeless",
+     "textures": {
+        "down": "whiteout:blocks/black_block",
+        "up": "whiteout:blocks/black_block",
+        "north": "whiteout:blocks/black_block",
+        "south": "whiteout:blocks/black_block",
+        "east": "whiteout:blocks/black_block",
+        "west": "whiteout:blocks/black_block",
+        "particle": "whiteout:blocks/black_block"
+    }
+}
